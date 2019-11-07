@@ -26,24 +26,6 @@ Admin’s job is to manage the inventory and other information related to menu a
 Hall Managers will provide its input when he marks the bill as paid when customers pay for their order or get the bill printed. Moreover, he gets a notification whenever a particular order is complete, or some customer asks for help through the system. Hall manager can also see tables in the hall and their status i.e. empty or filled.
 
 
-## Screenshots of some Interfaces and their Description
-
-<p align="middle">
-  <img src="../master/images/1.PNG"/>
- </p>
- 
- <p align="middle">
-  <img src="../master/images/2.PNG"/>
- </p>
-
-<p align="middle">
-  <img src="../master/images/3.PNG"/>
- </p>
- 
- <p align="middle">
-  <img src="../master/images/4.PNG"/>
- </p>
-
 ## How to Run
 
 In order to have a look at the code files and understand the working, simply download this repository and open Android Studio and browse to the downloaded project and open it. It will load the project files and the code will be ready to run. 
