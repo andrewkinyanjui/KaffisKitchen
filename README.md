@@ -52,6 +52,6 @@ If you liked the repo then please support it by giving it a star ⭐!
 
 
 ## License
-[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
+Hakuna brathee
 
 Copyright (c) 2019-present, Andrew Kinyanjui                                                        
